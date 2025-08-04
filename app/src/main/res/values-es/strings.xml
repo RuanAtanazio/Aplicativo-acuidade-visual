@@ -1,0 +1,107 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Optimetrics Chart</string>
+    <string name="app_subtitle">Pruebas de Visión Profesionales</string>
+    <string name="app_version">Versión 2.1.0 PRO</string>
+
+    <!-- Navigation -->
+    <string name="nav_tests">Pruebas</string>
+    <string name="nav_education">Educación</string>
+    <string name="nav_library">Biblioteca</string>
+    <string name="nav_settings">Configuración</string>
+    <string name="nav_about">Acerca de</string>
+
+    <!-- Main Tests -->
+    <string name="test_visual_acuity">Agudeza Visual</string>
+    <string name="test_visual_acuity_desc">Prueba de agudeza visual usando tablas de Snellen y ETDRS</string>
+    
+    <string name="test_color_vision">Visión de Colores</string>
+    <string name="test_color_vision_desc">Prueba de daltonismo usando placas de Ishihara</string>
+    
+    <string name="test_astigmatism">Astigmatismo</string>
+    <string name="test_astigmatism_desc">Prueba de astigmatismo con gráfico radial</string>
+    
+    <string name="test_contrast_sensitivity">Sensibilidad al Contraste</string>
+    <string name="test_contrast_sensitivity_desc">Prueba de sensibilidad al contraste</string>
+    
+    <string name="test_depth_perception">Percepción de Profundidad</string>
+    <string name="test_depth_perception_desc">Prueba de percepción de profundidad estereoscópica</string>
+    
+    <string name="test_visual_field">Campo Visual</string>
+    <string name="test_visual_field_desc">Prueba de campo visual periférico</string>
+    
+    <string name="test_binocular_vision">Visión Binocular</string>
+    <string name="test_binocular_vision_desc">Prueba de visión binocular y coordinación</string>
+    
+    <string name="test_landolt_c">Landolt C</string>
+    <string name="test_landolt_c_desc">Prueba de agudeza visual con anillo de Landolt</string>
+    
+    <string name="test_snellen">Tabla de Snellen</string>
+    <string name="test_snellen_desc">Prueba clásica de agudeza visual con letras</string>
+
+    <!-- Test Controls -->
+    <string name="btn_start_test">Iniciar Prueba</string>
+    <string name="btn_next">Siguiente</string>
+    <string name="btn_previous">Anterior</string>
+    <string name="btn_finish">Finalizar</string>
+    <string name="btn_restart">Reiniciar</string>
+    <string name="btn_settings">Configuración</string>
+
+    <!-- Education Section -->
+    <string name="education_title">Videos Educativos</string>
+    <string name="education_desc">Sección de videos educativos sobre pruebas de visión y oftalmología.</string>
+    <string name="education_ocular_physiotherapy">Fisioterapia Ocular</string>
+    <string name="education_ophthalmic_surgery">Cirugía Oftálmica</string>
+    <string name="education_interesting_videos">Videos Interesantes de Oftalmología</string>
+
+    <!-- Medical Library -->
+    <string name="library_title">Biblioteca Médica Completa</string>
+    <string name="library_desc">Estudios e información completa sobre oftalmología, incluyendo anatomía, fisiología, patologías y métodos diagnósticos para todas las edades.</string>
+    <string name="library_visual_acuity">Agudeza Visual</string>
+    <string name="library_color_vision">Visión de Colores</string>
+    <string name="library_astigmatism">Astigmatismo</string>
+    <string name="library_glaucoma">Glaucoma</string>
+    <string name="library_cataract">Catarata</string>
+    <string name="library_retinal_diseases">Enfermedades Retinianas</string>
+    <string name="library_pediatric_ophthalmology">Oftalmología Pediátrica</string>
+    <string name="library_neuro_ophthalmology">Neuro-oftalmología</string>
+
+    <!-- Settings -->
+    <string name="settings_language">Idioma</string>
+    <string name="settings_theme">Modo Claro</string>
+    <string name="settings_distance">Distancia de Prueba</string>
+    <string name="settings_brightness">Brillo de Pantalla</string>
+    <string name="settings_sound">Sonidos</string>
+
+    <!-- About -->
+    <string name="about_title">Acerca de</string>
+    <string name="about_version">Versión 2.1.0 PRO</string>
+    <string name="about_developer">Desarrollado por:</string>
+    <string name="about_developer_name">Ruan Atanazio da Silva</string>
+    <string name="about_github">GitHub:</string>
+    <string name="about_github_url">github.com/RuanAtanazio</string>
+    <string name="about_github_link">https://github.com/ruanatanazio</string>
+    <string name="about_last_update">Última actualización:</string>
+    <string name="about_last_update_date">Julio de 2025</string>
+    <string name="about_description">Aplicación profesional para pruebas de visión con alta precisión, basada en Eye Chart Pro y desarrollada para oftalmólogos.</string>
+
+    <!-- Common -->
+    <string name="click_to_explore">Haga clic para explorar</string>
+    <string name="loading">Cargando...</string>
+    <string name="error">Error</string>
+    <string name="retry">Reintentar</string>
+    <string name="back">Volver</string>
+    <string name="fullscreen_mode">Modo pantalla completa</string>
+    
+    <!-- Test Instructions -->
+    <string name="instruction_cover_eye">Cubra un ojo y lea las letras</string>
+    <string name="instruction_distance">Mantenga una distancia de %s metros</string>
+    <string name="instruction_identify_direction">Identifique la dirección de la abertura</string>
+    <string name="instruction_color_plates">Identifique los números en las placas de colores</string>
+    
+    <!-- Results -->
+    <string name="result_vision">Agudeza Visual:</string>
+    <string name="result_normal">Normal</string>
+    <string name="result_abnormal">Anormal</string>
+    <string name="result_refer_specialist">Se recomienda consulta con especialista</string>
+</resources>
