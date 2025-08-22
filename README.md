@@ -134,7 +134,7 @@ O aplicativo inclui uma biblioteca médica completa com:
 ## 👨‍💻 Desenvolvedor
 
 **Ruan Atanazio da Silva**
-- 📧 Email: [seu-email@email.com]
+- 📧 Email: [atanazioruan3@gmail.com]
 - 🐙 GitHub: [github.com/ruanatanazio](https://github.com/ruanatanazio)
 - 💼 LinkedIn: [linkedin.com/in/ruanatanazio]
 
