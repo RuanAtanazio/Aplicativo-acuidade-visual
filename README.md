@@ -151,7 +151,7 @@ Contribuições são bem-vindas! Por favor, leia o [CONTRIBUTING.md](CONTRIBUTIN
 Para suporte técnico ou dúvidas:
 
 1. **Issues do GitHub**: [Issues](https://github.com/ruanatanazio/optimetrics-chart/issues)
-2. **Email**: [seu-email@email.com]
+2. **Email**: [atanazioruan3@gmail.com]
 3. **Documentação**: [Wiki do projeto](https://github.com/ruanatanazio/optimetrics-chart/wiki)
 
 ## 🔄 Atualizações
